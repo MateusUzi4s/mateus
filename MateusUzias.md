@@ -152,24 +152,28 @@ Transformar dados de produção em informações **simples, visuais e úteis**, 
         <img src="https://drive.google.com/thumbnail?id=1wctpy8-G_Ai6oSyNQLc9tcsNJpVkUPy5&sz=w1200" width="100%" alt="Tela do sistema TécnicoList 1"/>
       </a>
     </td>
+
     <td align="center" width="50%">
       <a href="https://drive.google.com/file/d/11DXDbDpyYbGdfGlzgMt9YpsvnNQMAA3v/view?usp=drivesdk">
         <img src="https://drive.google.com/thumbnail?id=11DXDbDpyYbGdfGlzgMt9YpsvnNQMAA3v&sz=w1200" width="100%" alt="Tela do sistema TécnicoList 2"/>
       </a>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="50%">
       <a href="https://drive.google.com/file/d/1bdDz8BhJUBhYNs8SNHzDBiXR9S-nK7X8/view?usp=drivesdk">
         <img src="https://drive.google.com/thumbnail?id=1bdDz8BhJUBhYNs8SNHzDBiXR9S-nK7X8&sz=w1200" width="100%" alt="Tela do sistema TécnicoList 3"/>
       </a>
     </td>
+
     <td align="center" width="50%">
       <a href="https://drive.google.com/file/d/1LEiqm86xpPyZXn00LWAQZi8uh7OureaA/view?usp=drivesdk">
         <img src="https://drive.google.com/thumbnail?id=1LEiqm86xpPyZXn00LWAQZi8uh7OureaA&sz=w1200" width="100%" alt="Tela do sistema TécnicoList 4"/>
       </a>
     </td>
   </tr>
+
   <tr>
     <td align="center" colspan="2">
       <a href="https://drive.google.com/file/d/1Bp2JJ8pTZ8MttWmr17ertLiGPQqNEjho/view?usp=drivesdk">
@@ -228,6 +232,7 @@ Centralizar informações que normalmente ficam espalhadas, permitindo que o té
         <img src="https://drive.google.com/thumbnail?id=1Pq-sd7Y1YqPa25eucH20PzJFO67y6KQ5&sz=w1200" width="100%" alt="Tela do projeto TecMac 1"/>
       </a>
     </td>
+
     <td align="center" width="50%">
       <a href="https://drive.google.com/file/d/1mJJYnuJFFCI4eyF6S8f7yNC2NUaDrlgv/view?usp=drivesdk">
         <img src="https://drive.google.com/thumbnail?id=1mJJYnuJFFCI4eyF6S8f7yNC2NUaDrlgv&sz=w1200" width="100%" alt="Tela do projeto TecMac 2"/>
@@ -246,36 +251,175 @@ Centralizar informações que normalmente ficam espalhadas, permitindo que o té
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/STATUS-Em%20evolução-00C853?style=flat-square" alt="Em evolução"/>
+<img src="https://img.shields.io/badge/STATUS-Em%20evolução-00C853?style=flat-square" alt="Projeto em evolução"/>
 
-<img src="https://img.shields.io/badge/CATEGORIA-Organização-0066FF?style=flat-square" alt="Organização"/>
+<img src="https://img.shields.io/badge/CATEGORIA-Gestão%20e%20Organização-0066FF?style=flat-square" alt="Gestão e organização"/>
 
 <img src="https://img.shields.io/badge/FOCO-Igrejas%20e%20Ministérios-7B2CFF?style=flat-square" alt="Igrejas e ministérios"/>
 
+<img src="https://img.shields.io/badge/PLATAFORMA-Web%20Responsiva-00C6FF?style=flat-square" alt="Plataforma web responsiva"/>
+
 </div>
 
-Projeto voltado para organização, comunicação e apoio às atividades de igrejas e ministérios.
+O **e-Membro** é uma plataforma criada para apoiar a organização, a comunicação e o desenvolvimento de igrejas e ministérios em um ambiente digital simples e acessível.
 
-**Principais recursos:**
+O projeto reúne recursos administrativos, conteúdos, cursos e treinamentos, facilitando o acompanhamento das atividades e a capacitação de membros e equipes.
 
-- 👥 Organização de membros;
-- 🎓 Cursos e treinamentos;
-- 📚 Controle de conteúdos;
+#### ✨ Principais recursos
+
+- 👥 Organização e acompanhamento de membros;
+- 🎓 Cursos, aulas e treinamentos;
+- 📜 Emissão e acompanhamento de certificados;
+- 📚 Organização de módulos e conteúdos;
 - 📢 Comunicação interna;
+- 🗓️ Apoio à organização das atividades;
+- 🧑‍💼 Área administrativa;
+- 📱 Interface responsiva para celulares e computadores;
 - 🤝 Apoio aos departamentos da igreja.
+
+#### 🎯 Objetivo do projeto
+
+Centralizar informações, treinamentos e recursos importantes em uma única plataforma, tornando a gestão mais organizada e ajudando pessoas a se prepararem para atuar nos ministérios.
+
+#### 🖼️ Portfólio visual do e-Membro
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://drive.google.com/file/d/1Uy91RLKmm9Bx0j9OuYdwpGVXC0pExQP9/view?usp=drivesdk">
+        <img src="https://drive.google.com/thumbnail?id=1Uy91RLKmm9Bx0j9OuYdwpGVXC0pExQP9&sz=w1200" width="100%" alt="Tela do projeto e-Membro 1"/>
+      </a>
+    </td>
+
+    <td align="center" width="50%">
+      <a href="https://drive.google.com/file/d/1Z1bawXOkMykTXhsMntan3yTsr_knbuAJ/view?usp=drivesdk">
+        <img src="https://drive.google.com/thumbnail?id=1Z1bawXOkMykTXhsMntan3yTsr_knbuAJ&sz=w1200" width="100%" alt="Tela do projeto e-Membro 2"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://drive.google.com/file/d/18Mpaq6ld_4Iu4QK3c8GU4w6ruYk5UzIh/view?usp=drivesdk">
+        <img src="https://drive.google.com/thumbnail?id=18Mpaq6ld_4Iu4QK3c8GU4w6ruYk5UzIh&sz=w1200" width="100%" alt="Tela do projeto e-Membro 3"/>
+      </a>
+    </td>
+
+    <td align="center" width="50%">
+      <a href="https://drive.google.com/file/d/14u0BYwX0zxDMZF70Dg9djPU9UNmU-dm_/view?usp=drivesdk">
+        <img src="https://drive.google.com/thumbnail?id=14u0BYwX0zxDMZF70Dg9djPU9UNmU-dm_&sz=w1200" width="100%" alt="Tela do projeto e-Membro 4"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://drive.google.com/file/d/18wkoddMkqNBQ9ToHO_0b33Q6cnjbhNHw/view?usp=drivesdk">
+        <img src="https://drive.google.com/thumbnail?id=18wkoddMkqNBQ9ToHO_0b33Q6cnjbhNHw&sz=w1200" width="100%" alt="Tela do projeto e-Membro 5"/>
+      </a>
+    </td>
+
+    <td align="center" width="50%">
+      <a href="https://drive.google.com/file/d/14397lfAAS0O9pJx-rocPsT0IWrmznZa2/view?usp=drivesdk">
+        <img src="https://drive.google.com/thumbnail?id=14397lfAAS0O9pJx-rocPsT0IWrmznZa2&sz=w1200" width="100%" alt="Tela do projeto e-Membro 6"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<sub>Clique nas imagens para visualizar em tamanho maior.</sub>
+
+</div>
 
 ---
 
 ## 🎓 Formação e cursos
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** — Faculdade Gran, 2º semestre;
-- 🤖 Cursos de Inteligência Artificial;
-- 💻 Desenvolvimento de sites;
-- 🌐 HTML e CSS;
-- 📊 Excel e organização de dados;
-- 🚀 Cursos realizados pela plataforma DIO;
-- 🏦 Especialização em HTML e CSS pela Fundação Bradesco;
-- 🖥️ Formação em desenvolvimento Full Stack pelo SESI.
+### 🏫 Instituições de ensino
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <a href="https://www.grancursosonline.com.br/">
+        <img src="https://www.google.com/s2/favicons?domain=grancursosonline.com.br&sz=128" width="55" alt="Logo da Gran Faculdade"/>
+      </a>
+    </td>
+
+    <td>
+      <strong>Gran Faculdade</strong><br>
+      Análise e Desenvolvimento de Sistemas — 2º semestre
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <a href="https://www.dio.me/">
+        <img src="https://www.google.com/s2/favicons?domain=dio.me&sz=128" width="55" alt="Logo da DIO"/>
+      </a>
+    </td>
+
+    <td>
+      <strong>DIO — Digital Innovation One</strong><br>
+      Cursos de Inteligência Artificial, desenvolvimento de sites, Excel e tecnologia
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <a href="https://www.ev.org.br/">
+        <img src="https://www.google.com/s2/favicons?domain=ev.org.br&sz=128" width="55" alt="Logo da Fundação Bradesco"/>
+      </a>
+    </td>
+
+    <td>
+      <strong>Fundação Bradesco — Escola Virtual</strong><br>
+      Especialização e cursos em HTML e CSS
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <a href="https://www.sesisp.org.br/">
+        <img src="https://www.google.com/s2/favicons?domain=sesisp.org.br&sz=128" width="55" alt="Logo do SESI"/>
+      </a>
+    </td>
+
+    <td>
+      <strong>SESI</strong><br>
+      Formação em Desenvolvimento Full Stack
+    </td>
+  </tr>
+</table>
+
+</div>
+
+### 📚 Cursos e conhecimentos
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Inteligência%20Artificial-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligência Artificial"/>
+
+<img src="https://img.shields.io/badge/Desenvolvimento%20Web-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Desenvolvimento Web"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-7B2CFF?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Desenvolvimento Full Stack"/>
+
+<img src="https://img.shields.io/badge/Design%20Digital-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Design Digital"/>
+
+</div>
 
 ---
 
