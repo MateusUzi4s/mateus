@@ -8,7 +8,7 @@
   src="https://drive.google.com/thumbnail?id=1ATL4XhZhELEpDpoAkWlVaPHp9ahLjdke&sz=w1000"
   width="190"
   height="190"
-  alt="Foto de perfil de Mateus Uzias"
+  alt="Foto de perfil de Mateus Santos de Morais"
   style="border-radius: 50%;"
 />
 
@@ -30,7 +30,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Mateus Uzias**, desenvolvedor **Front-end Júnior**, designer digital e estudante de **Análise e Desenvolvimento de Sistemas**.
+Sou **Mateus Santos de Morais**, desenvolvedor **Front-end Júnior**, designer digital e estudante de **Análise e Desenvolvimento de Sistemas**.
 
 Desde 2019, venho desenvolvendo conhecimentos em criação de sites, interfaces digitais e soluções que ajudam na organização e no desempenho de pessoas e empresas.
 
