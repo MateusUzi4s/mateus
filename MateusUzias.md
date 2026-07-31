@@ -143,49 +143,27 @@ Transformar dados de produção em informações **simples, visuais e úteis**, 
 
 #### 🖼️ Portfólio visual do TécnicoList
 
-<div align="center">
+**TécnicoList — Tela 1**
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/1wctpy8-G_Ai6oSyNQLc9tcsNJpVkUPy5/view?usp=drivesdk">
-        <img src="https://drive.google.com/thumbnail?id=1wctpy8-G_Ai6oSyNQLc9tcsNJpVkUPy5&sz=w1200" width="100%" alt="Tela do sistema TécnicoList 1"/>
-      </a>
-    </td>
+[![TécnicoList — Tela 1](https://drive.google.com/thumbnail?id=1wctpy8-G_Ai6oSyNQLc9tcsNJpVkUPy5&sz=w1600)](https://drive.google.com/file/d/1wctpy8-G_Ai6oSyNQLc9tcsNJpVkUPy5/view?usp=drivesdk)
 
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/11DXDbDpyYbGdfGlzgMt9YpsvnNQMAA3v/view?usp=drivesdk">
-        <img src="https://drive.google.com/thumbnail?id=11DXDbDpyYbGdfGlzgMt9YpsvnNQMAA3v&sz=w1200" width="100%" alt="Tela do sistema TécnicoList 2"/>
-      </a>
-    </td>
-  </tr>
+**TécnicoList — Tela 2**
 
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/1bdDz8BhJUBhYNs8SNHzDBiXR9S-nK7X8/view?usp=drivesdk">
-        <img src="https://drive.google.com/thumbnail?id=1bdDz8BhJUBhYNs8SNHzDBiXR9S-nK7X8&sz=w1200" width="100%" alt="Tela do sistema TécnicoList 3"/>
-      </a>
-    </td>
+[![TécnicoList — Tela 2](https://drive.google.com/thumbnail?id=11DXDbDpyYbGdfGlzgMt9YpsvnNQMAA3v&sz=w1600)](https://drive.google.com/file/d/11DXDbDpyYbGdfGlzgMt9YpsvnNQMAA3v/view?usp=drivesdk)
 
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/1LEiqm86xpPyZXn00LWAQZi8uh7OureaA/view?usp=drivesdk">
-        <img src="https://drive.google.com/thumbnail?id=1LEiqm86xpPyZXn00LWAQZi8uh7OureaA&sz=w1200" width="100%" alt="Tela do sistema TécnicoList 4"/>
-      </a>
-    </td>
-  </tr>
+**TécnicoList — Tela 3**
 
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://drive.google.com/file/d/1Bp2JJ8pTZ8MttWmr17ertLiGPQqNEjho/view?usp=drivesdk">
-        <img src="https://drive.google.com/thumbnail?id=1Bp2JJ8pTZ8MttWmr17ertLiGPQqNEjho&sz=w1200" width="60%" alt="Tela do sistema TécnicoList 5"/>
-      </a>
-    </td>
-  </tr>
-</table>
+[![TécnicoList — Tela 3](https://drive.google.com/thumbnail?id=1bdDz8BhJUBhYNs8SNHzDBiXR9S-nK7X8&sz=w1600)](https://drive.google.com/file/d/1bdDz8BhJUBhYNs8SNHzDBiXR9S-nK7X8/view?usp=drivesdk)
 
-<sub>Clique nas imagens para abrir em tamanho maior.</sub>
+**TécnicoList — Tela 4**
 
-</div>
+[![TécnicoList — Tela 4](https://drive.google.com/thumbnail?id=1LEiqm86xpPyZXn00LWAQZi8uh7OureaA&sz=w1600)](https://drive.google.com/file/d/1LEiqm86xpPyZXn00LWAQZi8uh7OureaA/view?usp=drivesdk)
+
+**TécnicoList — Tela 5**
+
+[![TécnicoList — Tela 5](https://drive.google.com/thumbnail?id=1Bp2JJ8pTZ8MttWmr17ertLiGPQqNEjho&sz=w1600)](https://drive.google.com/file/d/1Bp2JJ8pTZ8MttWmr17ertLiGPQqNEjho/view?usp=drivesdk)
+
+> Toque ou clique em uma imagem para abrir em tamanho maior.
 
 ---
 
@@ -223,27 +201,15 @@ Centralizar informações que normalmente ficam espalhadas, permitindo que o té
 
 #### 🖼️ Portfólio visual do TecMac
 
-<div align="center">
+**TecMac — Tela 1**
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/1Pq-sd7Y1YqPa25eucH20PzJFO67y6KQ5/view?usp=drivesdk">
-        <img src="https://drive.google.com/thumbnail?id=1Pq-sd7Y1YqPa25eucH20PzJFO67y6KQ5&sz=w1200" width="100%" alt="Tela do projeto TecMac 1"/>
-      </a>
-    </td>
+[![TecMac — Tela 1](https://drive.google.com/thumbnail?id=1Pq-sd7Y1YqPa25eucH20PzJFO67y6KQ5&sz=w1600)](https://drive.google.com/file/d/1Pq-sd7Y1YqPa25eucH20PzJFO67y6KQ5/view?usp=drivesdk)
 
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/1mJJYnuJFFCI4eyF6S8f7yNC2NUaDrlgv/view?usp=drivesdk">
-        <img src="https://drive.google.com/thumbnail?id=1mJJYnuJFFCI4eyF6S8f7yNC2NUaDrlgv&sz=w1200" width="100%" alt="Tela do projeto TecMac 2"/>
-      </a>
-    </td>
-  </tr>
-</table>
+**TecMac — Tela 2**
 
-<sub>Clique nas imagens para visualizar em tamanho maior.</sub>
+[![TecMac — Tela 2](https://drive.google.com/thumbnail?id=1mJJYnuJFFCI4eyF6S8f7yNC2NUaDrlgv&sz=w1600)](https://drive.google.com/file/d/1mJJYnuJFFCI4eyF6S8f7yNC2NUaDrlgv/view?usp=drivesdk)
 
-</div>
+> Toque ou clique em uma imagem para abrir em tamanho maior.
 
 ---
 
@@ -283,55 +249,31 @@ Centralizar informações, treinamentos e recursos importantes em uma única pla
 
 #### 🖼️ Portfólio visual do e-Membro
 
-<div align="center">
+**e-Membro — Tela 1**
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/1Uy91RLKmm9Bx0j9OuYdwpGVXC0pExQP9/view?usp=drivesdk">
-        <img src="https://drive.google.com/thumbnail?id=1Uy91RLKmm9Bx0j9OuYdwpGVXC0pExQP9&sz=w1200" width="100%" alt="Tela do projeto e-Membro 1"/>
-      </a>
-    </td>
+[![e-Membro — Tela 1](https://drive.google.com/thumbnail?id=1Uy91RLKmm9Bx0j9OuYdwpGVXC0pExQP9&sz=w1600)](https://drive.google.com/file/d/1Uy91RLKmm9Bx0j9OuYdwpGVXC0pExQP9/view?usp=drivesdk)
 
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/1Z1bawXOkMykTXhsMntan3yTsr_knbuAJ/view?usp=drivesdk">
-        <img src="https://drive.google.com/thumbnail?id=1Z1bawXOkMykTXhsMntan3yTsr_knbuAJ&sz=w1200" width="100%" alt="Tela do projeto e-Membro 2"/>
-      </a>
-    </td>
-  </tr>
+**e-Membro — Tela 2**
 
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/18Mpaq6ld_4Iu4QK3c8GU4w6ruYk5UzIh/view?usp=drivesdk">
-        <img src="https://drive.google.com/thumbnail?id=18Mpaq6ld_4Iu4QK3c8GU4w6ruYk5UzIh&sz=w1200" width="100%" alt="Tela do projeto e-Membro 3"/>
-      </a>
-    </td>
+[![e-Membro — Tela 2](https://drive.google.com/thumbnail?id=1Z1bawXOkMykTXhsMntan3yTsr_knbuAJ&sz=w1600)](https://drive.google.com/file/d/1Z1bawXOkMykTXhsMntan3yTsr_knbuAJ/view?usp=drivesdk)
 
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/14u0BYwX0zxDMZF70Dg9djPU9UNmU-dm_/view?usp=drivesdk">
-        <img src="https://drive.google.com/thumbnail?id=14u0BYwX0zxDMZF70Dg9djPU9UNmU-dm_&sz=w1200" width="100%" alt="Tela do projeto e-Membro 4"/>
-      </a>
-    </td>
-  </tr>
+**e-Membro — Tela 3**
 
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/18wkoddMkqNBQ9ToHO_0b33Q6cnjbhNHw/view?usp=drivesdk">
-        <img src="https://drive.google.com/thumbnail?id=18wkoddMkqNBQ9ToHO_0b33Q6cnjbhNHw&sz=w1200" width="100%" alt="Tela do projeto e-Membro 5"/>
-      </a>
-    </td>
+[![e-Membro — Tela 3](https://drive.google.com/thumbnail?id=18Mpaq6ld_4Iu4QK3c8GU4w6ruYk5UzIh&sz=w1600)](https://drive.google.com/file/d/18Mpaq6ld_4Iu4QK3c8GU4w6ruYk5UzIh/view?usp=drivesdk)
 
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/14397lfAAS0O9pJx-rocPsT0IWrmznZa2/view?usp=drivesdk">
-        <img src="https://drive.google.com/thumbnail?id=14397lfAAS0O9pJx-rocPsT0IWrmznZa2&sz=w1200" width="100%" alt="Tela do projeto e-Membro 6"/>
-      </a>
-    </td>
-  </tr>
-</table>
+**e-Membro — Tela 4**
 
-<sub>Clique nas imagens para visualizar em tamanho maior.</sub>
+[![e-Membro — Tela 4](https://drive.google.com/thumbnail?id=14u0BYwX0zxDMZF70Dg9djPU9UNmU-dm_&sz=w1600)](https://drive.google.com/file/d/14u0BYwX0zxDMZF70Dg9djPU9UNmU-dm_/view?usp=drivesdk)
 
-</div>
+**e-Membro — Tela 5**
+
+[![e-Membro — Tela 5](https://drive.google.com/thumbnail?id=18wkoddMkqNBQ9ToHO_0b33Q6cnjbhNHw&sz=w1600)](https://drive.google.com/file/d/18wkoddMkqNBQ9ToHO_0b33Q6cnjbhNHw/view?usp=drivesdk)
+
+**e-Membro — Tela 6**
+
+[![e-Membro — Tela 6](https://drive.google.com/thumbnail?id=14397lfAAS0O9pJx-rocPsT0IWrmznZa2&sz=w1600)](https://drive.google.com/file/d/14397lfAAS0O9pJx-rocPsT0IWrmznZa2/view?usp=drivesdk)
+
+> Toque ou clique em uma imagem para abrir em tamanho maior.
 
 ---
 
@@ -339,63 +281,13 @@ Centralizar informações, treinamentos e recursos importantes em uma única pla
 
 ### 🏫 Instituições de ensino
 
-<div align="center">
+- [![Gran Faculdade](https://www.google.com/s2/favicons?domain=grancursosonline.com.br&sz=32)](https://www.grancursosonline.com.br/) **Gran Faculdade** — Análise e Desenvolvimento de Sistemas, 2º semestre.
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.grancursosonline.com.br/">
-        <img src="https://www.google.com/s2/favicons?domain=grancursosonline.com.br&sz=128" width="55" alt="Logo da Gran Faculdade"/>
-      </a>
-    </td>
+- [![DIO](https://www.google.com/s2/favicons?domain=dio.me&sz=32)](https://www.dio.me/) **DIO — Digital Innovation One** — cursos de Inteligência Artificial, desenvolvimento de sites, Excel e tecnologia.
 
-    <td>
-      <strong>Gran Faculdade</strong><br>
-      Análise e Desenvolvimento de Sistemas — 2º semestre
-    </td>
-  </tr>
+- [![Fundação Bradesco](https://www.google.com/s2/favicons?domain=ev.org.br&sz=32)](https://www.ev.org.br/) **Fundação Bradesco — Escola Virtual** — especialização e cursos em HTML e CSS.
 
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.dio.me/">
-        <img src="https://www.google.com/s2/favicons?domain=dio.me&sz=128" width="55" alt="Logo da DIO"/>
-      </a>
-    </td>
-
-    <td>
-      <strong>DIO — Digital Innovation One</strong><br>
-      Cursos de Inteligência Artificial, desenvolvimento de sites, Excel e tecnologia
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.ev.org.br/">
-        <img src="https://www.google.com/s2/favicons?domain=ev.org.br&sz=128" width="55" alt="Logo da Fundação Bradesco"/>
-      </a>
-    </td>
-
-    <td>
-      <strong>Fundação Bradesco — Escola Virtual</strong><br>
-      Especialização e cursos em HTML e CSS
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.sesisp.org.br/">
-        <img src="https://www.google.com/s2/favicons?domain=sesisp.org.br&sz=128" width="55" alt="Logo do SESI"/>
-      </a>
-    </td>
-
-    <td>
-      <strong>SESI</strong><br>
-      Formação em Desenvolvimento Full Stack
-    </td>
-  </tr>
-</table>
-
-</div>
+- [![SESI](https://www.google.com/s2/favicons?domain=sesisp.org.br&sz=32)](https://www.sesisp.org.br/) **SESI** — formação em Desenvolvimento Full Stack.
 
 ### 📚 Cursos e conhecimentos
 
