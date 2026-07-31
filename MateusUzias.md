@@ -25,6 +25,14 @@
   <img src="https://img.shields.io/badge/GitHub-MateusUzi4s-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil no GitHub"/>
 </a>
 
+<a href="https://www.linkedin.com/in/mateus-santos-de-morais-3068a3356">
+  <img src="https://img.shields.io/badge/LinkedIn-Mateus%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Mateus Santos"/>
+</a>
+
+<a href="https://wa.me/5511997057627">
+  <img src="https://img.shields.io/badge/WhatsApp-Fale%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp de Mateus Santos"/>
+</a>
+
 <a href="mailto:mateusuzias@gmail.com">
   <img src="https://img.shields.io/badge/Email-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail"/>
 </a>
@@ -317,37 +325,21 @@ Centralizar informações, treinamentos e recursos importantes em uma única pla
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+### 📈 Resumo do perfil
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=MateusUzi4s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&rank_icon=github"
-  alt="Estatísticas do GitHub de MateusUzi4s"
-/>
+![Resumo das estatísticas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MateusUzi4s&theme=tokyonight)
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusUzi4s&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br"
-  alt="Linguagens mais utilizadas por MateusUzi4s"
-/>
+### 💻 Linguagens dos projetos
 
-<br><br>
+![Linguagens utilizadas nos repositórios](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MateusUzi4s&theme=tokyonight)
 
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=MateusUzi4s&theme=tokyonight&hide_border=true&locale=pt_BR"
-  alt="Sequência de contribuições de MateusUzi4s"
-/>
+### 🔥 Sequência de contribuições
 
-<br><br>
+![Sequência de contribuições](https://streak-stats.demolab.com?user=MateusUzi4s&theme=tokyonight&hide_border=true&locale=pt_BR)
 
-<img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=MateusUzi4s&bg_color=0D1117&color=00C6FF&line=7B2CFF&point=FFFFFF&area=true&hide_border=true&custom_title=Gráfico%20de%20Contribuições"
-  alt="Gráfico de contribuições no GitHub"
-/>
+### 🗓️ Atividade no GitHub
 
-</div>
+![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=MateusUzi4s&bg_color=0D1117&color=00C6FF&line=7B2CFF&point=FFFFFF&area=true&hide_border=true&custom_title=Gráfico%20de%20Contribuições)
 
 ---
 
@@ -378,6 +370,14 @@ Tenho interesse em trabalhar com:
 
 <a href="https://github.com/MateusUzi4s">
   <img src="https://img.shields.io/badge/GitHub-MateusUzi4s-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Mateus Uzias"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mateus-santos-de-morais-3068a3356">
+  <img src="https://img.shields.io/badge/LinkedIn-Mateus%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Mateus Santos"/>
+</a>
+
+<a href="https://wa.me/5511997057627">
+  <img src="https://img.shields.io/badge/WhatsApp-Fale%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp de Mateus Santos"/>
 </a>
 
 <a href="https://www.youtube.com/@mateusuzias">
