@@ -1,5 +1,5 @@
 <!-- Cabeçalho animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:00c6ff,100:7b2cff&height=180&section=header&text=Mateus%20Uzias&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Júnior%20%7C%20Design%20Digital%20%7C%20Tecnologia&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:00c6ff,100:7b2cff&height=180&section=header&text=Mateus%20Santos%20de%20Morais&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Júnior%20%7C%20Design%20Digital%20%7C%20Tecnologia&descAlignY=58&descSize=17"/>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 <!-- Texto animado -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Mateus+Uzias!;Desenvolvedor+Front-end+J%C3%BAnior;Designer+Digital;Criando+solu%C3%A7%C3%B5es+com+tecnologia;Inova%C3%A7%C3%A3o+com+simplicidade"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Mateus+Santos+de+Morais!;Desenvolvedor+Front-end+J%C3%BAnior;Designer+Digital;Criando+solu%C3%A7%C3%B5es+com+tecnologia;Inova%C3%A7%C3%A3o+com+simplicidade"
   alt="Apresentação animada"
 />
 
